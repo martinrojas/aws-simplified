@@ -1,3 +1,7 @@
+# AWS Simplified
+
+This repo walks through a simple react aplication and the generated code.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
